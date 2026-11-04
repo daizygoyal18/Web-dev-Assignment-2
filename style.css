@@ -96,6 +96,6 @@ button:hover {
     background-color: blue;
     color: white;
     padding: 8px;
-    /* text-decoration: none; */
+    text-decoration: none;
     border-radius: 10px;
 }
